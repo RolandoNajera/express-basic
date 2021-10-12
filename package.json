@@ -4,6 +4,7 @@
   "description": "basic stuff for node js express",
   "main": "app.js",
   "scripts": {
+    "start": "node app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/RolandoNajera/express-basic/issues"
   },
-  "homepage": "https://github.com/RolandoNajera/express-basic#readme"
+  "homepage": "https://github.com/RolandoNajera/express-basic#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
 }
