@@ -1,0 +1,23 @@
+{
+  "name": "express-basic",
+  "version": "1.0.0",
+  "description": "basic stuff for node js express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RolandoNajera/express-basic.git"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "Rolas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RolandoNajera/express-basic/issues"
+  },
+  "homepage": "https://github.com/RolandoNajera/express-basic#readme"
+}
